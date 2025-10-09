@@ -1,10 +1,10 @@
-# 🚗 Uber Project – Next-Gen Ride Hailing Platform
+# 🚗 AeroRide – Next-Gen Ride Hailing Platform
 
-Welcome to **Uber Project**, a full-stack, real-time ride-hailing application inspired by the best of Uber’s user experience and technology. This project demonstrates modern web engineering, scalable backend architecture, and seamless real-time communication between riders and captains.
+Welcome to **AeroRide**, a full-stack, real-time ride-hailing application inspired by the best of Uber’s user experience and technology. This project demonstrates modern web engineering, scalable backend architecture, and seamless real-time communication between riders and captains.
 
 ---
 
-## 🌟 Why Uber Video Stands Out
+## 🌟 Why AeroRide Stands Out
 
 - **Real-Time Ride Matching:** Instantly connect riders with nearby captains using live location tracking and socket-powered notifications.
 - **Interactive Maps:** Google Maps integration for live tracking, pickup/destination suggestions, and route visualization.

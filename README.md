@@ -93,19 +93,6 @@ uber-video/
 
 ---
 
-
-
-## 💡 Value Proposition
-
-Uber Video is more than a clone—it’s a showcase of how to build scalable, real-time, location-based applications with modern web technologies. Whether you’re a developer, startup, or educator, this project is a launchpad for building the next generation of mobility platforms.
-
-- **For Developers:** Learn advanced patterns in React, Node.js, and Socket.io.
-- **For Startups:** Rapidly prototype ride-hailing or logistics solutions.
-- **For Educators:** Demonstrate real-world full-stack engineering and cloud integrations.
-
----
-
-
 ## 🤝 Contributing
 
 Pull requests, issues, and feature suggestions are welcome! Let’s build the future of mobility together.
